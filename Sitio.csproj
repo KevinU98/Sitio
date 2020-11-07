@@ -148,6 +148,9 @@
     <Content Include="Content\Efecto\images\6.png" />
     <Content Include="Content\Efecto\js\modernizr.custom.js" />
     <Content Include="Content\Efecto\js\toucheffects.js" />
+    <Content Include="Content\Images\C1.jpeg" />
+    <Content Include="Content\Images\C2.jpeg" />
+    <Content Include="Content\Images\C3.jpeg" />
     <Content Include="Content\Images\image1.jpg" />
     <Content Include="Content\Images\image2.jpg" />
     <Content Include="Content\Images\image3.jpg" />
