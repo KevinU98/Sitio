@@ -157,6 +157,7 @@
     <Content Include="Content\Images\image4.jpg" />
     <Content Include="Content\Images\image5.jpg" />
     <Content Include="Content\Images\image6.jpg" />
+    <Content Include="Content\Images\logo.jpg" />
     <Content Include="Content\Images\logo.png" />
     <Content Include="Content\Images\logop.png" />
     <Content Include="Content\Images\P1.jpeg" />
@@ -168,6 +169,9 @@
     <Content Include="Content\Images\P5.jpeg" />
     <Content Include="Content\Images\P6.jpeg" />
     <Content Include="Content\Images\P9.jpeg" />
+    <Content Include="Content\Images\T1.jpg" />
+    <Content Include="Content\Images\T2.jpg" />
+    <Content Include="Content\Images\T3.jpg" />
     <Content Include="Content\Principal\css\animate.css" />
     <Content Include="Content\Principal\css\menu.css" />
     <Content Include="Content\Principal\css\style.css" />
