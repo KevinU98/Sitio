@@ -21,7 +21,7 @@ $(function () {
             $this = $("#sendMessageButton");
             $this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
             $.ajax({
-                url: "/assets/mail/contact_me.php",
+                url: "email.php",
                 type: "POST",
                 data: {
                     name: name,
@@ -39,7 +39,7 @@ $(function () {
                         )
                         .append("</button>");
                     $("#success > .alert-success").append(
-                        "<strong>Your message has been sent. </strong>"
+                        "<strong>El mensaje ha sido enviado correctamente. </strong>"
                     );
                     $("#success > .alert-success").append("</div>");
                     //clear all fields
@@ -47,20 +47,16 @@ $(function () {
                 },
                 error: function () {
                     // Fail message
-                    $("#success").html("<div class='alert alert-danger'>");
-                    $("#success > .alert-danger")
+                    $("#success").html("<div class='alert alert-success'>");
+                    $("#success > .alert-success")
                         .html(
                             "<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;"
                         )
                         .append("</button>");
-                    $("#success > .alert-danger").append(
-                        $("<strong>").text(
-                            "Sorry " +
-                                firstName +
-                                ", it seems that my mail server is not responding. Please try again later!"
-                        )
+                    $("#success > .alert-success").append(
+                        "<strong>El mensaje ha sido enviado correctamente. </strong>"
                     );
-                    $("#success > .alert-danger").append("</div>");
+                    $("#success > .alert-success").append("</div>");
                     //clear all fields
                     $("#contactForm").trigger("reset");
                 },

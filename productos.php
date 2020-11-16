@@ -27,6 +27,7 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="index.php">Inicio</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#lineaa">Linea Agricola</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#lineai">Linea Industrial</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#contenedores">Contenedores</a></li>
@@ -71,149 +72,213 @@
                     </div>
                     <!-- Portfolio Item 3-->
                     <div class="col-md-3 col-lg-3 mb-5">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal3">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#productagri3">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/Prod3.png" alt="" />
+                            <img class="img-fluid" src="assets/img/PA3.png" alt="" />
                         </div>
                     </div>
                     <!-- Portfolio Item 4-->
                     <div class="col-md-3 col-lg-3 mb-5">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal4">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#productagri4">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/Prod4.png" alt="" />
+                            <img class="img-fluid" src="assets/img/PA4.png" alt="" />
                         </div>
                     </div>
                     <!-- Portfolio Item 5-->
                     <div class="col-md-3 col-lg-3 mb-5 mb-lg-0">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal5">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#productagri5">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/Serv1.png" alt="" />
+                            <img class="img-fluid" src="assets/img/PA5.png" alt="" />
                         </div>
                     </div>
                     <!-- Portfolio Item 6-->
                     <div class="col-md-3 col-lg-3">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal6">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#productagri6">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/Serv2.png" alt="" />
+                            <img class="img-fluid" src="assets/img/PA6.png" alt="" />
                         </div>
                     </div>
                     <!-- Portfolio Item 7-->
                     <div class="col-md-3 col-lg-3">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal1">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#productagri7">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/Serv3.png" alt="" />
+                            <img class="img-fluid" src="assets/img/PA7.png" alt="" />
                         </div>
                     </div>
                     <!-- Portfolio Item 8-->
                     <div class="col-md-3 col-lg-3">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal2">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#productagri8">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/Serv4.png" alt="" />
-                        </div>
-                    </div>
-                    <!-- Portfolio Item 9-->
-                    <div class="col-md-3 col-lg-3 mt-5">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal3">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/Serv5.png" alt="" />
+                            <img class="img-fluid" src="assets/img/PA8.png" alt="" />
                         </div>
                     </div>
                 </div>
             </div>
         </section>
         <!-- About Section-->
-        <section class="page-section bg-primary text-white mb-0" id="about">
+        <section class="page-section portfolio bg-primary text-white mb-0" id="lineai">
             <div class="container">
-                <!-- About Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-white">Nosotros</h2>
+                <!-- Portfolio Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-white mb-0">Linea Industrial</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                     <div class="divider-custom-line"></div>
                 </div>
-                <!-- About Section Content-->
-                <div class="row">
-                    <div class="col-lg-4 ml-auto">
-                        <h3 class="text-white">Misión:</p>
-                        <p class="lead">Estar presente en las empresas como un importante proveedor de productos y servicios en lo que respecta al equipo para el movimiento de materiales como son contenedores de plástico, tarimas de plástico, cajas de plástico y soluciones de empaque.</p>
+                <!-- Portfolio Grid Items-->
+                <div class="row justify-content-center">
+                    <!-- Portfolio Item 1-->
+                    <div class="col-md-3 col-lg-3 mb-5">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#productidu1">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/PI1.png" alt="" />
+                        </div>
                     </div>
-                    <div class="col-lg-4 mr-auto">
-                        <h3 class="text-white">Visión:</p>
-                        <p class="lead">Somos una empresa especializada en la comercialización de productos industriales de calidad comprometida a entregar productos y servicios de manera eficiente y oportuna a nuestros clientes. Somos personas integras, honestas, serviciales y orientadas a resultados.</p>
+                    <!-- Portfolio Item 2-->
+                    <div class="col-md-3 col-lg-3 mb-5">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#productidu2">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/PI2.png" alt="" />
+                        </div>
                     </div>
-                </div>
-                <!-- About Section Button-->
-                <div class="text-center mt-4">
-                    <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
-                        <i class="fas fa-download mr-2"></i>
-                        Free Download!
-                    </a>
+                    <!-- Portfolio Item 3-->
+                    <div class="col-md-3 col-lg-3 mb-5">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#productidu3">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/PI3.png" alt="" />
+                        </div>
+                    </div>
+                    <!-- Portfolio Item 4-->
+                    <div class="col-md-3 col-lg-3 mb-5">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#productidu4">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/PI4.png" alt="" />
+                        </div>
+                    </div>
+                    <!-- Portfolio Item 5-->
+                    <div class="col-md-3 col-lg-3 mb-5 mb-lg-0">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#productidu5">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/PI5.png" alt="" />
+                        </div>
+                    </div>
+                    <!-- Portfolio Item 6-->
+                    <div class="col-md-3 col-lg-3">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#productidu6">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/PI6.png" alt="" />
+                        </div>
+                    </div>
+                    <!-- Portfolio Item 7-->
+                    <div class="col-md-3 col-lg-3">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#productidu7">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/PI7.png" alt="" />
+                        </div>
+                    </div>
+                    <!-- Portfolio Item 8-->
+                    <div class="col-md-3 col-lg-3">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#productidu8">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/PI8.png" alt="" />
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
-        <!-- Contact Section-->
-        <section class="page-section" id="contact">
+        <!-- Contenedor Section-->
+        <section class="page-section portfolio" id="contenedores">
             <div class="container">
-                <!-- Contact Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Nosotros</h2>
+                <!-- Portfolio Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contenedores</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                     <div class="divider-custom-line"></div>
                 </div>
-                <!-- Contact Section Form-->
-                <div class="row">
-                    <div class="col-lg-8 mx-auto">
-                        <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19.-->
-                        <form id="contactForm" name="sentMessage" novalidate="novalidate">
-                            <div class="control-group">
-                                <div class="form-group floating-label-form-group controls mb-0 pb-2">
-                                    <label>Name</label>
-                                    <input class="form-control" id="name" type="text" placeholder="Name" required="required" data-validation-required-message="Please enter your name." />
-                                    <p class="help-block text-danger"></p>
-                                </div>
+                <!-- Portfolio Grid Items-->
+                <div class="row justify-content-center">
+                    <!-- Portfolio Item 1-->
+                    <div class="col-md-3 col-lg-3 mb-5">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#productconte1">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <div class="control-group">
-                                <div class="form-group floating-label-form-group controls mb-0 pb-2">
-                                    <label>Email Address</label>
-                                    <input class="form-control" id="email" type="email" placeholder="Email Address" required="required" data-validation-required-message="Please enter your email address." />
-                                    <p class="help-block text-danger"></p>
-                                </div>
+                            <img class="img-fluid" src="assets/img/PC1.png" alt="" />
+                        </div>
+                    </div>
+                    <!-- Portfolio Item 2-->
+                    <div class="col-md-3 col-lg-3 mb-5">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#productconte2">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <div class="control-group">
-                                <div class="form-group floating-label-form-group controls mb-0 pb-2">
-                                    <label>Phone Number</label>
-                                    <input class="form-control" id="phone" type="tel" placeholder="Phone Number" required="required" data-validation-required-message="Please enter your phone number." />
-                                    <p class="help-block text-danger"></p>
-                                </div>
+                            <img class="img-fluid" src="assets/img/PC2.png" alt="" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Tarima Section-->
+        <section class="page-section portfolio bg-primary text-white mb-0" id="tarimas">
+            <div class="container">
+                <!-- Portfolio Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-white mb-0">Tarimas</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- Portfolio Grid Items-->
+                <div class="row justify-content-center">
+                    <!-- Portfolio Item 1-->
+                    <div class="col-md-3 col-lg-3 mb-5">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#producttar1">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <div class="control-group">
-                                <div class="form-group floating-label-form-group controls mb-0 pb-2">
-                                    <label>Message</label>
-                                    <textarea class="form-control" id="message" rows="5" placeholder="Message" required="required" data-validation-required-message="Please enter a message."></textarea>
-                                    <p class="help-block text-danger"></p>
-                                </div>
+                            <img class="img-fluid" src="assets/img/PT1.png" alt="" />
+                        </div>
+                    </div>
+                    <!-- Portfolio Item 2-->
+                    <div class="col-md-3 col-lg-3 mb-5">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#producttar2">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <br />
-                            <div id="success"></div>
-                            <div class="form-group"><button class="btn btn-primary btn-xl" id="sendMessageButton" type="submit">Send</button></div>
-                        </form>
+                            <img class="img-fluid" src="assets/img/PT2.png" alt="" />
+                        </div>
                     </div>
                 </div>
             </div>
@@ -316,13 +381,17 @@
                                             </tr>
                                             <tr>
                                                 <td colspan="3">
-                                                    Polietireno | Densidad | Reciclado
+                                                    Polietireno Alta Densidad | Reciclado
                                                 </td>
                                             </tr>
                                         </tbody>
                                     </table>
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/PA1.png" alt="" />
+                                    <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
+                                        <i class="fas fa-share-square fa-fw"></i>
+                                        Cotizar Producto
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -330,7 +399,7 @@
                 </div>
             </div>
         </div>
-        <!-- Portfolio Modal 2-->
+        <!-- Modal 2-->
         <div class="portfolio-modal modal fade" id="productagri2" tabindex="-1" role="dialog" aria-labelledby="productagri2" aria-hidden="true">
             <div class="modal-dialog modal-lg" role="document">
                 <div class="modal-content">
@@ -379,7 +448,7 @@
                                             </tr>
                                             <tr>
                                                 <td colspan="3">
-                                                    Inyección Alto | Relieve | Serigrafía
+                                                    Inyección Alto Relieve | Serigrafía
                                                 </td>
                                             </tr>
                                             <tr>
@@ -387,13 +456,17 @@
                                             </tr>
                                             <tr>
                                                 <td colspan="3">
-                                                    Polietireno Alta | Densidad | Reciclado
+                                                    Polietireno Alta Densidad | Reciclado
                                                 </td>
                                             </tr>
                                         </tbody>
                                     </table>
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/PA2.png" alt="" />
+                                    <button class="btn btn-primary">
+                                        <i class="fas fa-share-square fa-fw"></i>
+                                        Cotizar Producto
+                                    </button>
                                 </div>
                             </div>
                         </div>
@@ -401,8 +474,953 @@
                 </div>
             </div>
         </div>
-        <!-- Portfolio Modal 3-->
-        <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-labelledby="portfolioModal3Label" aria-hidden="true">
+        <!-- Modal 3-->
+        <div class="portfolio-modal modal fade" id="productagri3" tabindex="-1" role="dialog" aria-labelledby="productagri3" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="productagri2">Caja Lechera de 20 Litros</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Text-->
+                                    <table class="table table-hover table-bordered table-sm table-striped">
+                                        <thead>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Colores:</td>
+                                                <td scope="col" class="font-weight-bold">Condiciones de Estiba:</td>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>44 X 33 X 27 h</td>
+                                                <td>Azul</td>
+                                                <td>9 Piezas con Producto</td>
+                                            </tr>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold" colspan="2">Forma de Estiba / Empaque:</td>
+                                                <td scope="col" class="font-weight-bold">Capacidad:</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="2">Apilable</td>
+                                                <td>
+                                                    25 kg.
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold" colspan="3">Servicios:</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3">
+                                                    Inyección Alto Relieve | Serigrafía
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3" class="font-weight-bold">Material</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3">
+                                                    Polietireno Alta Densidad | Reciclado
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/PA3.png" alt="" />
+                                    <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
+                                        <i class="fas fa-share-square fa-lg mr-2"></i>
+                                        Cotizar Producto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal 4-->
+        <div class="portfolio-modal modal fade" id="productagri4" tabindex="-1" role="dialog" aria-labelledby="productagri4" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="productagri2">Caja Rectangular Calado Grande</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Text-->
+                                    <table class="table table-hover table-bordered table-sm table-striped">
+                                        <thead>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Colores:</td>
+                                                <td scope="col" class="font-weight-bold">Condiciones de Estiba:</td>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>53 X 34.5 X 13.5 h</td>
+                                                <td>Naranja</td>
+                                                <td>19 Piezas con Producto</td>
+                                            </tr>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold" colspan="2">Forma de Estiba / Empaque:</td>
+                                                <td scope="col" class="font-weight-bold">Capacidad:</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="2">Apilable</td>
+                                                <td>
+                                                    10 kg.
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold" colspan="3">Servicios:</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3">
+                                                    Hot Stamping | Inyección Alto | Relieve | Serigrafía
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3" class="font-weight-bold">Material</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3">
+                                                    Polietireno Alta | Densidad
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/PA4.png" alt="" />
+                                    <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
+                                        <i class="fas fa-share-square fa-lg mr-2"></i>
+                                        Cotizar Producto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal 5-->
+        <div class="portfolio-modal modal fade" id="productagri5" tabindex="-1" role="dialog" aria-labelledby="productagri5" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="productagri2">Caja Multicontenedor Cerrado</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Text-->
+                                    <table class="table table-hover table-bordered table-sm table-striped">
+                                        <thead>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Colores:</td>
+                                                <td scope="col" class="font-weight-bold">Condiciones de Estiba:</td>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>57 X 40 X 15 h</td>
+                                                <td>Naranja</td>
+                                                <td>15 Piezas con Producto</td>
+                                            </tr>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold" colspan="2">Forma de Estiba / Empaque:</td>
+                                                <td scope="col" class="font-weight-bold">Capacidad:</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="2">Anidable | Apilable</td>
+                                                <td>
+                                                    10 kg.
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold" colspan="3">Servicios:</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3">
+                                                    Hot Stamping | Serigrafía
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3" class="font-weight-bold">Material</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3">
+                                                    Polietireno Alta Densidad
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/PA5.png" alt="" />
+                                    <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
+                                        <i class="fas fa-share-square fa-lg mr-2"></i>
+                                        Cotizar Producto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal 6-->
+        <div class="portfolio-modal modal fade" id="productagri6" tabindex="-1" role="dialog" aria-labelledby="productagri6" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="productagri2">Caja Multiprocesos Cerrada</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Text-->
+                                    <table class="table table-hover table-bordered table-sm table-striped">
+                                        <thead>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Colores:</td>
+                                                <td scope="col" class="font-weight-bold">Condiciones de Estiba:</td>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>57 X 40 X 15 h</td>
+                                                <td>Naranja</td>
+                                                <td>15 Piezas con Producto</td>
+                                            </tr>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold" colspan="2">Forma de Estiba / Empaque:</td>
+                                                <td scope="col" class="font-weight-bold">Capacidad:</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="2">Anidable | Apilable</td>
+                                                <td>
+                                                    10 kg.
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold" colspan="3">Servicios:</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3">
+                                                    Hot Stamping | Serigrafía
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3" class="font-weight-bold">Material</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3">
+                                                    Polietireno Alta Densidad
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/PA6.png" alt="" />
+                                    <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
+                                        <i class="fas fa-share-square fa-lg mr-2"></i>
+                                        Cotizar Producto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal 7-->
+        <div class="portfolio-modal modal fade" id="productagri7" tabindex="-1" role="dialog" aria-labelledby="productagri7" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="productagri2">Caja Ganadera Calada</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Text-->
+                                    <table class="table table-hover table-bordered table-sm table-striped">
+                                        <thead>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Colores:</td>
+                                                <td scope="col" class="font-weight-bold">Condiciones de Estiba:</td>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>44 X 36 X 28.5 h</td>
+                                                <td>Naranja</td>
+                                                <td>9 Piezas con Producto</td>
+                                            </tr>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold" colspan="2">Forma de Estiba / Empaque:</td>
+                                                <td scope="col" class="font-weight-bold">Capacidad:</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="2">Apilable</td>
+                                                <td>
+                                                    30 kg.
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold" colspan="3">Servicios:</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3">
+                                                    Inyección Alto Relieve | Serigrafía
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3" class="font-weight-bold">Material</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3">
+                                                    Polietireno Alta Densidad
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/PA7.png" alt="" />
+                                    <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
+                                        <i class="fas fa-share-square fa-lg mr-2"></i>
+                                        Cotizar Producto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal 8-->
+        <div class="portfolio-modal modal fade" id="productagri8" tabindex="-1" role="dialog" aria-labelledby="productagri8" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="productagri2">Caja Ganadera Cerrada</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Text-->
+                                    <table class="table table-hover table-bordered table-sm table-striped">
+                                        <thead>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Colores:</td>
+                                                <td scope="col" class="font-weight-bold">Condiciones de Estiba:</td>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>44 X 36 X 28.5 h</td>
+                                                <td>Naranja</td>
+                                                <td>9 Piezas con Producto</td>
+                                            </tr>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold" colspan="2">Forma de Estiba / Empaque:</td>
+                                                <td scope="col" class="font-weight-bold">Capacidad:</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="2">Apilable</td>
+                                                <td>
+                                                    36 kg.
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold" colspan="3">Servicios:</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3">
+                                                    Inyección Alto Relieve | Serigrafía
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3" class="font-weight-bold">Material</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3">
+                                                    Polietireno Alta Densidad
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/PA8.png" alt="" />
+                                    <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
+                                        <i class="fas fa-share-square fa-lg mr-2"></i>
+                                        Cotizar Producto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal 9-->
+        <div class="portfolio-modal modal fade" id="productidu1" tabindex="-1" role="dialog" aria-labelledby="productidu1" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="productagri2">Caja de Bisagras 50-21 con Tapa</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Text-->
+                                    <table class="table table-hover table-bordered table-sm table-striped">
+                                        <thead>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>50 X 30 X 21 h</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/PI1.png" alt="" />
+                                    <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
+                                        <i class="fas fa-share-square fa-lg mr-2"></i>
+                                        Cotizar Producto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal 10-->
+        <div class="portfolio-modal modal fade" id="productidu2" tabindex="-1" role="dialog" aria-labelledby="productidu2" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="productagri2">Caja de Bisagras 60-32 con Tapa</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Text-->
+                                    <table class="table table-hover table-bordered table-sm table-striped">
+                                        <thead>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>60 X 40 X 32 h</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/PI2.png" alt="" />
+                                    <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
+                                        <i class="fas fa-share-square fa-lg mr-2"></i>
+                                        Cotizar Producto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal 11-->
+        <div class="portfolio-modal modal fade" id="productidu3" tabindex="-1" role="dialog" aria-labelledby="productidu3" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="productagri2">Caja de Bisagras 60-50 con Tapa</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Text-->
+                                    <table class="table table-hover table-bordered table-sm table-striped">
+                                        <thead>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>60 X 50 X 30 h</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/PI3.png" alt="" />
+                                    <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
+                                        <i class="fas fa-share-square fa-lg mr-2"></i>
+                                        Cotizar Producto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal 12-->
+        <div class="portfolio-modal modal fade" id="productidu4" tabindex="-1" role="dialog" aria-labelledby="productidu4" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="productagri2">Caja Canadá con Tapa </h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Text-->
+                                    <table class="table table-hover table-bordered table-sm table-striped">
+                                        <thead>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>50 X 30 X 21 h</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/PI4.png" alt="" />
+                                    <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
+                                        <i class="fas fa-share-square fa-lg mr-2"></i>
+                                        Cotizar Producto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal 13-->
+        <div class="portfolio-modal modal fade" id="productidu5" tabindex="-1" role="dialog" aria-labelledby="productidu5" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="productagri2">Caja Industrial No. 1 </h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Text-->
+                                    <table class="table table-hover table-bordered table-sm table-striped">
+                                        <thead>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>38 X 24 X 10 h</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/PI5.png" alt="" />
+                                    <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
+                                        <i class="fas fa-share-square fa-lg mr-2"></i>
+                                        Cotizar Producto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal 14-->
+        <div class="portfolio-modal modal fade" id="productidu6" tabindex="-1" role="dialog" aria-labelledby="productidu6" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="productagri2">Caja Industrial No. 2 </h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Text-->
+                                    <table class="table table-hover table-bordered table-sm table-striped">
+                                        <thead>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>48 X 38 X 10 h</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/PI6.png" alt="" />
+                                    <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
+                                        <i class="fas fa-share-square fa-lg mr-2"></i>
+                                        Cotizar Producto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal 15-->
+        <div class="portfolio-modal modal fade" id="productidu7" tabindex="-1" role="dialog" aria-labelledby="productidu7" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="productagri2">Caja Industrial No. 3 </h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Text-->
+                                    <table class="table table-hover table-bordered table-sm table-striped">
+                                        <thead>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>48 X 38 X 20 h</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/PI7.png" alt="" />
+                                    <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
+                                        <i class="fas fa-share-square fa-lg mr-2"></i>
+                                        Cotizar Producto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal 16-->
+        <div class="portfolio-modal modal fade" id="productidu8" tabindex="-1" role="dialog" aria-labelledby="productidu8" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="productagri2">Caja Otawa Enfilable de 20 </h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Text-->
+                                    <table class="table table-hover table-bordered table-sm table-striped">
+                                        <thead>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>62 X 42 X 20 h</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/PI8.png" alt="" />
+                                    <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
+                                        <i class="fas fa-share-square fa-lg mr-2"></i>
+                                        Cotizar Producto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal 17-->
+        <div class="portfolio-modal modal fade" id="productconte1" tabindex="-1" role="dialog" aria-labelledby="productconte1" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="productagri2">Contenedor México Cerrado </h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Text-->
+                                    <table class="table table-hover table-bordered table-sm table-striped">
+                                        <thead>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>80 X 80 X 80 h</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/PC1.png" alt="" />
+                                    <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
+                                        <i class="fas fa-share-square fa-lg mr-2"></i>
+                                        Cotizar Producto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal 18-->
+        <div class="portfolio-modal modal fade" id="productconte2" tabindex="-1" role="dialog" aria-labelledby="productconte2" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="productagri2">Contenedor Milano Cerrado </h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Text-->
+                                    <table class="table table-hover table-bordered table-sm table-striped">
+                                        <thead>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>83 X 60 X 58 h</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/PC2.png" alt="" />
+                                    <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
+                                        <i class="fas fa-share-square fa-lg mr-2"></i>
+                                        Cotizar Producto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal 18-->
+        <div class="portfolio-modal modal fade" id="producttar1" tabindex="-1" role="dialog" aria-labelledby="producttar1" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="productagri2">Tarima Tipo Americano </h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Text-->
+                                    <table class="table table-hover table-bordered table-sm table-striped">
+                                        <thead>
+                                            <tr>
+                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>124 X 103 X 15 h</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/PT1.png" alt="" />
+                                    <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
+                                        <i class="fas fa-share-square fa-lg mr-2"></i>
+                                        Cotizar Producto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal 19-->
+        <div class="portfolio-modal modal fade" id="formCorreo" tabindex="-1" role="dialog" aria-labelledby="formCorreo" aria-hidden="true">
             <div class="modal-dialog modal-md" role="document">
                 <div class="modal-content">
                     <button class="close" type="button" data-dismiss="modal" aria-label="Close">
@@ -413,107 +1431,47 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal3Label">Reciclaje</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="productagri2">Cotizar </h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
                                         <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                                         <div class="divider-custom-line"></div>
                                     </div>
-                                    <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/Serv5.png" alt="" />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-5">Conscientes de la responsibilidad social con el medio ambiente.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Portfolio Modal 5-->
-        <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-labelledby="portfolioModal5Label" aria-hidden="true">
-            <div class="modal-dialog modal-md" role="document">
-                <div class="modal-content">
-                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
-                    </button>
-                    <div class="modal-body text-center">
-                        <div class="container">
-                            <div class="row justify-content-center">
-                                <div class="col-lg-12">
-                                    <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal5Label">Inyección Alto Relieve</h2>
-                                    <!-- Icon Divider-->
-                                    <div class="divider-custom">
-                                        <div class="divider-custom-line"></div>
-                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                                        <div class="divider-custom-line"></div>
-                                    </div>
-                                    <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/Serv1.png" alt="" />
-                                    <!-- Portfolio Modal - Text-->
-                                    <p class="mb-5">Grabado en su producto, resalta su marca.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Portfolio Modal 6-->
-        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-labelledby="portfolioModal6Label" aria-hidden="true">
-            <div class="modal-dialog modal-md" role="document">
-                <div class="modal-content">
-                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
-                    </button>
-                    <div class="modal-body text-center">
-                        <div class="container">
-                            <div class="row justify-content-center">
-                                <div class="col-lg-8">
-                                    <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal6Label">Hot Stamping</h2>
-                                    <!-- Icon Divider-->
-                                    <div class="divider-custom">
-                                        <div class="divider-custom-line"></div>
-                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                                        <div class="divider-custom-line"></div>
-                                    </div>
-                                    <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/Serv2.png" alt="" />
-                                    <!-- Portfolio Modal - Text-->
-                                    <p class="mb-5">Toque unico al acabado final, impresión que resalta por su brillo.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Portfolio Modal 7-->
-        <div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-labelledby="portfolioModal7Label" aria-hidden="true">
-            <div class="modal-dialog modal-md" role="document">
-                <div class="modal-content">
-                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
-                    </button>
-                    <div class="modal-body text-center">
-                        <div class="container">
-                            <div class="row justify-content-center">
-                                <div class="col-lg-8">
-                                    <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal6Label">Hot Stamping</h2>
-                                    <!-- Icon Divider-->
-                                    <div class="divider-custom">
-                                        <div class="divider-custom-line"></div>
-                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                                        <div class="divider-custom-line"></div>
-                                    </div>
-                                    <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/Serv2.png" alt="" />
-                                    <!-- Portfolio Modal - Text-->
-                                    <p class="mb-5">Toque unico al acabado final, impresión que resalta por su brillo.</p>
+                                    <form id="contactForm" name="sentMessage" novalidate="novalidate" action="email.php" method="POST">
+                                        <div class="control-group">
+                                            <div class="form-group floating-label-form-group controls mb-0 pb-2">
+                                                <label>*Nombre:</label>
+                                                <input class="form-control" id="name" type="text" placeholder="Nombre" required="required" data-validation-required-message="Por favor ingrese un nombre." />
+                                                <p class="help-block text-danger"></p>
+                                            </div>
+                                        </div>
+                                        <div class="control-group">
+                                            <div class="form-group floating-label-form-group controls mb-0 pb-2">
+                                                <label>*Email:</label>
+                                                <input class="form-control" id="email" type="email" placeholder="Email" required="required" data-validation-required-message="Por favor ingrese un email." />
+                                                <p class="help-block text-danger"></p>
+                                            </div>
+                                        </div>
+                                        <div class="control-group">
+                                            <div class="form-group floating-label-form-group controls mb-0 pb-2">
+                                                <label>*Teléfono:</label>
+                                                <input class="form-control" id="phone" type="tel" placeholder="Teléfono" required="required" data-validation-required-message="Por favor ingrese un teléfono" />
+                                                <p class="help-block text-danger"></p>
+                                            </div>
+                                        </div>
+                                        <div class="control-group">
+                                            <div class="form-group floating-label-form-group controls mb-0 pb-2">
+                                                <label>*Mensaje:</label>
+                                                <textarea class="form-control" id="message" rows="5" placeholder="Mensaje" required="required" data-validation-required-message="Por favor ingrese un mensaje."></textarea>
+                                                <p class="help-block text-danger"></p>
+                                            </div>
+                                        </div>
+                                        <br />
+                                        <div id="success"></div>
+                                        <div class="form-group"><button class="btn btn-primary btn-xl" id="sendMessageButton" type="submit">Enviar</button></div>
+                                    </form>
                                 </div>
                             </div>
                         </div>
@@ -531,5 +1489,10 @@
         <script src="assets/mail/contact_me.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
+        <script>
+            $(document).on('hidden.bs.modal', '.modal', function () {
+                $('.modal:visible').length && $(document.body).addClass('modal-open');
+            });
+        </script>
     </body>
 </html>
