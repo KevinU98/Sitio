@@ -270,7 +270,7 @@
                             <p class="lead font-weight-bold">
                                 <a class="btn btn-xl btn-outline-light" href="mailto:info@savingplstic.com">
                                     <i class="fas fa-at fa-lg mr-2"></i>
-                                    info@savingplstic.com
+                                    Enviar Email
                                 </a>
                             </p>
                         </div>
@@ -286,13 +286,13 @@
                         <p class="lead font-weight-bold">
                             <a class="btn btn-xl btn-outline-light" data-toggle="modal" data-target="#formCorreo">
                                 <i class="fas fa-mobile fa-lg mr-2"></i> 
-                                Cotiza
+                                Cotizar Prod.
                             </a>
                         </p>
                         <p class="lead font-weight-bold">
                             <a class="btn btn-xl btn-outline-light" href="assets/docs/Catalogo.pdf" target="_blank">
                                 <i class="fas fa-cloud-download-alt mr-2"></i> 
-                                Descargar Catálogo
+                                Ver Catálogo
                             </a>
                         </p>
                     </div>

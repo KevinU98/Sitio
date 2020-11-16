@@ -10084,7 +10084,7 @@ h3 {
   #mainNav {
     /* padding-top: 1.5rem;
     padding-bottom: 1.5rem; */
-    transition: padding-top 0.3s, padding-bottom 0.3s;
+    /* transition: padding-top 0.3s, padding-bottom 0.3s; */
   }
   #mainNav .navbar-brand {
     font-size: 1.75em;
@@ -10111,8 +10111,8 @@ h3 {
   }
 }
 .masthead {
-  padding-top: calc(6rem + 74px);
-  padding-bottom: 6rem;
+  padding-top: calc(5rem + 64px);
+  /* padding-bottom: 6rem; */
 }
 .masthead .masthead-heading {
   font-size: 2.75rem;
@@ -10127,8 +10127,8 @@ h3 {
 
 @media (min-width: 992px) {
   .masthead {
-    padding-top: calc(6rem + 104px);
-    padding-bottom: 6rem;
+    /* padding-top: calc(6rem + 104px); */
+    /* padding-bottom: 6rem; */
   }
   .masthead .masthead-heading {
     font-size: 4rem;
