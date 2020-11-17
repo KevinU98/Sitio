@@ -22,7 +22,7 @@
             <div class="container">
                 <a class="navbar-brand js-scroll-trigger" href="#page-top"><img src="assets/img/logo.jpg" class="rounded mx-auto d-block" alt="Logo" width="200px" height="100px"></a>
                 <button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                    Menu
+                    Menú
                     <i class="fas fa-bars"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
@@ -212,11 +212,11 @@
                 <div class="row">
                     <div class="col-lg-4 ml-auto">
                         <h3 class="text-white">Misión:</p>
-                        <p class="lead">Estar presente en las empresas como un importante proveedor de productos y servicios en lo que respecta al equipo para el movimiento de materiales como son contenedores de plástico, tarimas de plástico, cajas de plástico y soluciones de empaque.</p>
+                        <p class="lead">Estar presente en las empresas como un importante proveedor de productos y servicios en lo que respecta al equipo para el movimiento de materiales como son contenedores de plástico, tarimas de plástico, cajas de plástico y soluciones de empaque. </p>
                     </div>
                     <div class="col-lg-4 mr-auto">
                         <h3 class="text-white">Visión:</p>
-                        <p class="lead">Somos una empresa especializada en la comercialización de productos industriales de calidad comprometida a entregar productos y servicios de manera eficiente y oportuna a nuestros clientes. Somos personas integras, honestas, serviciales y orientadas a resultados.</p>
+                        <p class="lead">Somos una empresa especializada en la comercialización de productos industriales de calidad comprometida a entregar productos y servicios de manera eficiente y oportuna a nuestros clientes. Somos personas integras, honestas, serviciales y orientadas a resultados. </p>
                     </div>
                 </div>
             </div>
@@ -330,7 +330,7 @@
                         </p>
                         <p class="lead mb-0">
                             Correo:
-                            <a href="#">info@savingplstic.com</a>
+                            <a href="#">info@savingplastic.com</a>
                             .
                         </p>
                     </div>
@@ -368,7 +368,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/Serv3.png" alt="" />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-5 font-weight-bold">Versatilidad y colores vivos permanentes al aire libre.</p>
+                                    <p class="mb-5 font-weight-bold">Versatilidad y colores vivos permanentes al aire libre. </p>
                                     <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
                                         <i class="fas fa-share-square fa-lg mr-2"></i>
                                         Cotizar Servicio
@@ -402,7 +402,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/Serv4.png" alt="" />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-5 font-weight-bold">Alta definición, presentación, inmejorable.</p>
+                                    <p class="mb-5 font-weight-bold">Alta definición, presentación, inmejorable. </p>
                                     <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
                                         <i class="fas fa-share-square fa-lg mr-2"></i>
                                         Cotizar Servicio
@@ -436,8 +436,8 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/Serv5.png" alt="" />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-5 font-weight-bold">Conscientes de la responsibilidad social con el medio ambiente.</p>
-                                    <h4 class="text-danger font-weight-bold">Reciclaje: Compra de Material Polipropileno y Polietileno.</p>
+                                    <p class="mb-5 font-weight-bold">Conscientes de la responsibilidad social con el medio ambiente. </p>
+                                    <h4 class="text-danger font-weight-bold">Reciclaje: Compra de Material Polipropileno y Polietileno. </p>
                                     <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
                                         <i class="fas fa-share-square fa-lg mr-2"></i>
                                         Cotizar Servicio
@@ -471,8 +471,8 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/Serv1.png" alt="" />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-5 font-weight-bold">Grabado en su producto, resalta su marca.</p>
-                                    <h4 class="text-danger font-weight-bold">Inyección: Arriba de 1,000 Pzas.</p>
+                                    <p class="mb-5 font-weight-bold">Grabado en su producto, resalta su marca. </p>
+                                    <h4 class="text-danger font-weight-bold">Inyección: Arriba de 1,000 Pzas. </p>
                                     <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
                                         <i class="fas fa-share-square fa-lg mr-2"></i>
                                         Cotizar Servicio
@@ -506,8 +506,8 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/Serv2.png" alt="" />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-5 font-weight-bold">Toque unico al acabado final, impresión que resalta por su brillo.</p>
-                                    <h4 class="text-danger font-weight-bold">Hot Stamping: Arriba de 1,000 Pzas.</p>
+                                    <p class="mb-5 font-weight-bold">Toque unico al acabado final, impresión que resalta por su brillo. </p>
+                                    <h4 class="text-danger font-weight-bold">Hot Stamping: Arriba de 1,000 Pzas. </p>
                                     <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
                                         <i class="fas fa-share-square fa-lg mr-2"></i>
                                         Cotizar Servicio
@@ -541,7 +541,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/Serv2.png" alt="" />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-5 font-weight-bold">Toque unico al acabado final, impresión que resalta por su brillo.</p>
+                                    <p class="mb-5 font-weight-bold">Toque unico al acabado final, impresión que resalta por su brillo. </p>
                                     <a class="btn btn-primary" data-toggle="modal" data-target="#formCorreo">
                                         <i class="fas fa-share-square fa-lg mr-2"></i>
                                         Cotizar Servicio
@@ -629,3 +629,5 @@
         </script>
     </body>
 </html>
+
+

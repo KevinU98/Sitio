@@ -28,8 +28,8 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="index.php">Inicio</a></li>
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#lineaa">Linea Agricola</a></li>
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#lineai">Linea Industrial</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#lineaa">Línea Agrícola</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#lineai">Línea Industrial</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#contenedores">Contenedores</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#tarimas">Tarimas</a></li>
                     </ul>
@@ -43,7 +43,7 @@
         <section class="page-section portfolio" id="lineaa">
             <div class="container">
                 <!-- Portfolio Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Linea Agricola</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Línea Agrícola</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
@@ -131,7 +131,7 @@
         <section class="page-section portfolio bg-primary text-white mb-0" id="lineai">
             <div class="container">
                 <!-- Portfolio Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-white mb-0">Linea Industrial</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-white mb-0">Línea Industrial</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
@@ -314,7 +314,7 @@
                         </p>
                         <p class="lead mb-0">
                             Correo:
-                            <a href="#">info@savingplstic.com</a>
+                            <a href="#">info@savingplastic.com</a>
                             .
                         </p>
                     </div>
@@ -353,7 +353,7 @@
                                     <table class="table table-hover table-bordered table-sm">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                                 <td scope="col" class="font-weight-bold">Colores:</td>
                                                 <td scope="col" class="font-weight-bold">Condiciones de Estiba:</td>
                                             </tr>
@@ -381,7 +381,7 @@
                                             </tr>
                                             <tr>
                                                 <td colspan="3">
-                                                    Polietireno Alta Densidad | Reciclado
+                                                    Polietileno Alta Densidad | Reciclado
                                                 </td>
                                             </tr>
                                         </tbody>
@@ -422,7 +422,7 @@
                                     <table class="table table-hover table-bordered table-sm table-striped">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                                 <td scope="col" class="font-weight-bold">Colores:</td>
                                                 <td scope="col" class="font-weight-bold">Condiciones de Estiba:</td>
                                             </tr>
@@ -456,7 +456,7 @@
                                             </tr>
                                             <tr>
                                                 <td colspan="3">
-                                                    Polietireno Alta Densidad | Reciclado
+                                                    Polietileno Alta Densidad | Reciclado
                                                 </td>
                                             </tr>
                                         </tbody>
@@ -497,7 +497,7 @@
                                     <table class="table table-hover table-bordered table-sm table-striped">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                                 <td scope="col" class="font-weight-bold">Colores:</td>
                                                 <td scope="col" class="font-weight-bold">Condiciones de Estiba:</td>
                                             </tr>
@@ -531,7 +531,7 @@
                                             </tr>
                                             <tr>
                                                 <td colspan="3">
-                                                    Polietireno Alta Densidad | Reciclado
+                                                    Polietileno Alta Densidad | Reciclado
                                                 </td>
                                             </tr>
                                         </tbody>
@@ -572,7 +572,7 @@
                                     <table class="table table-hover table-bordered table-sm table-striped">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                                 <td scope="col" class="font-weight-bold">Colores:</td>
                                                 <td scope="col" class="font-weight-bold">Condiciones de Estiba:</td>
                                             </tr>
@@ -598,7 +598,7 @@
                                             </tr>
                                             <tr>
                                                 <td colspan="3">
-                                                    Hot Stamping | Inyección Alto | Relieve | Serigrafía
+                                                    Hot Stamping | Inyección Alto Relieve | Serigrafía
                                                 </td>
                                             </tr>
                                             <tr>
@@ -606,7 +606,7 @@
                                             </tr>
                                             <tr>
                                                 <td colspan="3">
-                                                    Polietireno Alta | Densidad
+                                                    Polietileno Alta | Densidad
                                                 </td>
                                             </tr>
                                         </tbody>
@@ -647,7 +647,7 @@
                                     <table class="table table-hover table-bordered table-sm table-striped">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                                 <td scope="col" class="font-weight-bold">Colores:</td>
                                                 <td scope="col" class="font-weight-bold">Condiciones de Estiba:</td>
                                             </tr>
@@ -681,7 +681,7 @@
                                             </tr>
                                             <tr>
                                                 <td colspan="3">
-                                                    Polietireno Alta Densidad
+                                                    Polietileno Alta Densidad
                                                 </td>
                                             </tr>
                                         </tbody>
@@ -722,7 +722,7 @@
                                     <table class="table table-hover table-bordered table-sm table-striped">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                                 <td scope="col" class="font-weight-bold">Colores:</td>
                                                 <td scope="col" class="font-weight-bold">Condiciones de Estiba:</td>
                                             </tr>
@@ -756,7 +756,7 @@
                                             </tr>
                                             <tr>
                                                 <td colspan="3">
-                                                    Polietireno Alta Densidad
+                                                    Polietileno Alta Densidad
                                                 </td>
                                             </tr>
                                         </tbody>
@@ -797,7 +797,7 @@
                                     <table class="table table-hover table-bordered table-sm table-striped">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                                 <td scope="col" class="font-weight-bold">Colores:</td>
                                                 <td scope="col" class="font-weight-bold">Condiciones de Estiba:</td>
                                             </tr>
@@ -831,7 +831,7 @@
                                             </tr>
                                             <tr>
                                                 <td colspan="3">
-                                                    Polietireno Alta Densidad
+                                                    Polietileno Alta Densidad
                                                 </td>
                                             </tr>
                                         </tbody>
@@ -872,7 +872,7 @@
                                     <table class="table table-hover table-bordered table-sm table-striped">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                                 <td scope="col" class="font-weight-bold">Colores:</td>
                                                 <td scope="col" class="font-weight-bold">Condiciones de Estiba:</td>
                                             </tr>
@@ -906,7 +906,7 @@
                                             </tr>
                                             <tr>
                                                 <td colspan="3">
-                                                    Polietireno Alta Densidad
+                                                    Polietileno Alta Densidad
                                                 </td>
                                             </tr>
                                         </tbody>
@@ -947,7 +947,7 @@
                                     <table class="table table-hover table-bordered table-sm table-striped">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -992,7 +992,7 @@
                                     <table class="table table-hover table-bordered table-sm table-striped">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -1037,7 +1037,7 @@
                                     <table class="table table-hover table-bordered table-sm table-striped">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -1082,7 +1082,7 @@
                                     <table class="table table-hover table-bordered table-sm table-striped">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -1127,7 +1127,7 @@
                                     <table class="table table-hover table-bordered table-sm table-striped">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -1172,7 +1172,7 @@
                                     <table class="table table-hover table-bordered table-sm table-striped">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -1217,7 +1217,7 @@
                                     <table class="table table-hover table-bordered table-sm table-striped">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -1262,7 +1262,7 @@
                                     <table class="table table-hover table-bordered table-sm table-striped">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -1307,7 +1307,7 @@
                                     <table class="table table-hover table-bordered table-sm table-striped">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -1352,7 +1352,7 @@
                                     <table class="table table-hover table-bordered table-sm table-striped">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -1397,7 +1397,7 @@
                                     <table class="table table-hover table-bordered table-sm table-striped">
                                         <thead>
                                             <tr>
-                                                <td scope="col" class="font-weight-bold">Dimenciones (cm):</td>
+                                                <td scope="col" class="font-weight-bold">Dimensiones (cm):</td>
                                             </tr>
                                         </thead>
                                         <tbody>
