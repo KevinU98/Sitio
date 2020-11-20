@@ -1312,7 +1312,7 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td>80 X 80 X 80 h</td>
+                                                <td>30 X 32 X 25 h</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -1357,7 +1357,7 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td>83 X 60 X 58 h</td>
+                                                <td>40 X 48 X 24 h</td>
                                             </tr>
                                         </tbody>
                                     </table>

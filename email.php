@@ -34,11 +34,11 @@
     //Estas dos líneas, cumplirían la función de encabezado (En mail() usado de esta forma: “From: Nombre <correo@dominio.com>”) de //correo.
 
     $mail->IsHTML(true); // El correo se envía como HTML
-    $mail->Subject = "Cotización"; // Este es el titulo del email.
-    $body = '<p>Una persona solicito una cotización:</p>
+    $mail->Subject = "Cotizacion"; // Este es el titulo del email.
+    $body = '<p>Una persona solicito una cotizacion:</p>
              <p>Nombre: <b>'.$nombre.'</b></p>
              <p>Email: <b>'.$email.'</b></p>
-             <p>Teléfono: <b>'.$phone.'</b></p>
+             <p>Telefono: <b>'.$phone.'</b></p>
              <p>Ademas Incluyó el siguiente mensaje:</p>
              <p><b>'.$message.'</b></p>';
     $mail->Body = $body; // Mensaje a enviar

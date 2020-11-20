@@ -106,7 +106,7 @@
                 <!-- Portfolio Grid Items-->
                 <div class="row justify-content-center">
                     <!-- Portfolio Item 1-->
-                    <div class="col-md-6 col-lg-4 mb-5">
+                    <div class="col-md-6 col-lg-3 mb-5">
                         <a href="productos.php#lineaa">
                             <div class="portfolio-item mx-auto">
                                 <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
@@ -117,7 +117,7 @@
                         </a>
                     </div>
                     <!-- Portfolio Item 2-->
-                    <div class="col-md-6 col-lg-4 mb-5">
+                    <div class="col-md-6 col-lg-3 mb-5">
                         <a href="productos.php#lineai">
                             <div class="portfolio-item mx-auto">
                                 <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
@@ -128,7 +128,7 @@
                         </a>
                     </div>
                     <!-- Portfolio Item 3-->
-                    <div class="col-md-6 col-lg-4 mb-5">
+                    <div class="col-md-6 col-lg-3 mb-5">
                         <a href="productos.php#contenedores">
                             <div class="portfolio-item mx-auto">
                                 <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
@@ -139,7 +139,7 @@
                         </a>
                     </div>
                     <!-- Portfolio Item 4-->
-                    <div class="col-md-6 col-lg-4 mb-5 mb-lg-0">
+                    <div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
                         <a href="productos.php#tarimas">
                             <div class="portfolio-item mx-auto">
                                 <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
@@ -150,16 +150,16 @@
                         </a>
                     </div>
                     <!-- Portfolio Item 5-->
-                    <div class="col-md-6 col-lg-4 mb-5 mb-md-0">
+                    <!-- <div class="col-md-6 col-lg-4 mb-5 mb-md-0">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal5">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
                             <img class="img-fluid" src="assets/img/Serv1.png" alt="" />
                         </div>
-                    </div>
+                    </div> -->
                     <!-- Portfolio Item 6-->
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-3 mt-5">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal6">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
@@ -168,16 +168,16 @@
                         </div>
                     </div>
                     <!-- Portfolio Item 7-->
-                    <div class="col-md-6 col-lg-4 mt-5">
+                    <!-- <div class="col-md-6 col-lg-3 mt-5">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal1">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
                             <img class="img-fluid" src="assets/img/Serv3.png" alt="" />
                         </div>
-                    </div>
+                    </div> -->
                     <!-- Portfolio Item 8-->
-                    <div class="col-md-6 col-lg-4 mt-5">
+                    <div class="col-md-6 col-lg-3 mt-5">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal2">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
@@ -186,7 +186,7 @@
                         </div>
                     </div>
                     <!-- Portfolio Item 9-->
-                    <div class="col-md-6 col-lg-4 mt-5">
+                    <div class="col-md-6 col-lg-3 mt-5">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal3">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
@@ -236,11 +236,11 @@
                 <div class="row">
                     <div class="col-lg-4 ml-auto">
                         <h3 class="">Reparación:</p>
-                        <img class="img-fluid rounded mb-5" src="assets/img/Reparacion.jpg" alt="" />
+                        <img class="img-fluid rounded" style="width:332px; height:220px" src="assets/img/Reparacion.jpg" alt="" />
                     </div>
                     <div class="col-lg-4 mr-auto">
                         <h3 class="">Modificación:</p>
-                        <img class="img-fluid rounded mb-5" src="assets/img//modificacion.png" alt="" />
+                        <img class="img-fluid rounded" width="332px" height="220px" src="assets/img//modificacion.png" alt="" />
                     </div>
                 </div>
             </div>
@@ -316,9 +316,6 @@
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <h4 class="text-uppercase mb-4">Redes Sociales</h4>
                         <a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com" target="_blank"><i class="fab fa-fw fa-facebook-f"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-linkedin-in"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-dribbble"></i></a>
                     </div>
                     <!-- Footer About Text-->
                     <div class="col-lg-4">
